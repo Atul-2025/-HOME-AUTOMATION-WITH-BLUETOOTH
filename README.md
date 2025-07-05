@@ -48,4 +48,19 @@ COMPONENT USED
 
 9 Jumper Wires / Connecting Wires
 
+COMPONENT
+
+![Image](https://github.com/user-attachments/assets/a5b7fd75-4072-4243-94a9-ae242155aced)
+
+CIRCUIT DIAGRAM
+
+![Image](https://github.com/user-attachments/assets/87dfbed6-5cf1-4f09-81ff-841672955446)
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/a4014aaa-bb63-43f2-86fb-66f3a4be687b)
+
+CONCLUSION
+
+This project demonstrates a simple and cost-effective way to automate home appliances using Bluetooth. With a smartphone and microcontroller, users can wirelessly control devices, making the system efficient, user-friendly, and ideal for smart home applications.
 

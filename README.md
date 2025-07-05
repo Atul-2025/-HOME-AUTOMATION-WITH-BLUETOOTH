@@ -13,6 +13,7 @@ DURATION :6 weeks
 MENTOR:NEELA SANTOSH
 
 DESCRIPTION
+
 This project is a Bluetooth-based home automation system designed to control electrical appliances wirelessly using a smartphone. The system utilizes a microcontroller with an integrated or external Bluetooth module to receive commands sent from a mobile app. When a command is received, the microcontroller processes it and activates/deactivates the corresponding relays, thereby controlling the connected appliances (lights, fans, etc.).
 
 The project demonstrates how low-cost wireless technology like Bluetooth can be used to create smart, energy-efficient, and convenient living environments. It is especially useful for the elderly or physically challenged individuals, enabling them to control home appliances with minimal effort.
@@ -46,3 +47,5 @@ COMPONENT USED
 8 Breadboard or PCB (for circuit connections)
 
 9 Jumper Wires / Connecting Wires
+
+
